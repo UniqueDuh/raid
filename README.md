@@ -17,3 +17,17 @@ A Discord Raiding Tool written in python.
   - Token Customization (Change name and profile pictures on the fly)
   - Add token generator (COMING VERY SOON)
   - Add proxy checker
+
+
+
+--
+
+REPL IT Setup
+
+Go to Console and type
+pip install -r requirements.txt
+Put ur tokens in tokens.txt
+if you got proxies u can add them to make it true in proxies.txt (dont need proxies u can leave it on false)
+
+Repl it version made by Jinxx#0001
+everything else credits to the owners
